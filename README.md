@@ -1,5 +1,8 @@
 # docker-mqtt-recorder
-multi-platform docker container that runs [mqtt-recorder](https://github.com/rpdswtk/mqtt_recorder) by [@rpdswtk](https://github.com/rpdswtk)
+Multi-platform docker container that runs [mqtt-recorder](https://github.com/rpdswtk/mqtt_recorder) by [@rpdswtk](https://github.com/rpdswtk).
+
+The docker image is available at dockerhub [broerkens/mqtt-recorder](https://hub.docker.com/r/broerkens/mqtt-recorder)
+
 
 ## How to run
 Run the docker container with the following configuration:
