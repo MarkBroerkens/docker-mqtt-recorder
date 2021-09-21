@@ -1,3 +1,5 @@
+[![build and deploy Status](https://github.com/MarkBroerkens/docker-mqtt-recorder/workflows/ci/badge.svg)](https://github.com/MarkBroerkens//docker-mqtt-recorder/actions)
+
 # docker-mqtt-recorder
 Multi-platform docker container that runs [mqtt-recorder](https://github.com/rpdswtk/mqtt_recorder) by [@rpdswtk](https://github.com/rpdswtk).
 
